@@ -19,6 +19,9 @@ This will upload the v2 index and assets to the s3, the deployed index.v2.html v
 ## Sample Scenario / Outputs
 
 ```
+# ./deploy.sh
+version needs to be specified as first arguement eg: 'v1' or 'v2'
+
 # ./deploy.sh v4
 no files matched with the version specified
 
