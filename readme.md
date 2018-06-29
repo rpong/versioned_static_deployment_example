@@ -29,10 +29,8 @@ no files matched with the version specified
 index.html for the version specific does not exist: index.v3.html
 
 # ./deploy.sh v2
-move: s3://static-bucket-dubizzle-test/index.v2.html to s3://static-bucket-dubizzle-test/index.html
 Deployment of v2 is successful
 
 # ./deploy.sh v1
-move: s3://static-bucket-dubizzle-test/index.v1.html to s3://static-bucket-dubizzle-test/index.html
 Deployment of v1 is successful
 ```
